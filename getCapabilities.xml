@@ -457,7 +457,7 @@
 				<Title>forest_areas___forest_areas_forest_areas_forestareas_shp</Title>
 				<Abstract>GH:forest_areas___forest_areas_forest_areas_forestareas_shp ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="20.425999831920237" miny="34.97804285664444" maxx="28.457846382533305" maxy="41.573499695032694"></LatLonBoundingBox>
